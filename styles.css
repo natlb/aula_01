@@ -1,6 +1,6 @@
 body{
     margin: 0%;
-    background-color: bisque;
+    background-color: indigo;
     font-family: 'Amiko', sans-serif;
 }
 
@@ -8,6 +8,17 @@ h1,h2{
     color: black;
     text-align: center;
     font-weight: 900;
+}
 
+p{
+    color: grey ;
+    margin-left: 10px;
+}
+
+button{
+    border: solid black 2px;
+    background-color: white;
+    border-radius: 10%;
+    padding: 10px;
 
 }
